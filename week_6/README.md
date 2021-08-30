@@ -1,3 +1,7 @@
+All the  code is here
+https://github.com/scalacenter/effective-scala-slide-code
+
+
 The code examples are provided either as self-contained worksheets,
 or as Scala programs with an entry point.
 
